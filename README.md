@@ -1,5 +1,5 @@
 # Welcome To Unclean Retro Bowl!
-Retro Bowl is an American style football game created by New Star Games. Are you ready to manage your dream team into victory?
+This is an unofficial spinoff of the game. It is in no way affiliated with New Star Games.
 <br>
 <br>
 Retro Bowl Version 1.5.5.7
