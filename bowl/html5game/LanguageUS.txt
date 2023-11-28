@@ -34,11 +34,11 @@ tla_years	yrs
 sex_0	Female
 sex_1	Male
 trait_app_0	None
-trait_app_1	Attractive
-trait_app_2	Disfigured
+trait_app_1	Sexy
+trait_app_2	Retarded
 trait_app_3	Tall
 trait_app_4	Short
-trait_app_5	Big boned
+trait_app_5	Fatass
 trait_app_6	Large
 trait_app_7	Skinny
 trait_app_8	Frail
@@ -61,11 +61,11 @@ trait_issue_15	Envious
 trait_issue_16	Proud
 trait_issue_17	Honest
 trait_issue_18	Deceitful
-trait_issue_19	Mean
+trait_issue_19	Asshole
 trait_issue_20	Pessimistic
 trait_vice_1	Gambler
 trait_vice_2	Alcoholic
-trait_vice_3	Sex Addict
+trait_vice_3	Prostitute
 trait_vice_4	Party Animal
 trait_vice_5	Drug Addict
 trait_vice_6	Aggressive
@@ -92,8 +92,8 @@ comm_stage_Possession_OppHalf3	$teamname has possession
 comm_stage_Possession_RedZone	$teamname in the red zone
 comm_stage_Possession_BackedUp	$teamname deep in their own half
 comm_stage_Possession_Halfway	$teamname has it in midfield
-comm_stage_PuntReturnGood	That's a good return
-comm_stage_PuntReturnShort	It's a short return
+comm_stage_PuntReturnGood	That's a decent return
+comm_stage_PuntReturnShort	It's a shit return
 comm_stage_DriveRun0	They run the ball
 comm_stage_DriveRun1	They keep it on the ground
 comm_stage_DriveRun2	The quarterback hands it off
@@ -104,20 +104,20 @@ comm_stage_DrivePass1	They throw the ball
 comm_stage_DrivePass2	It's a throw over the middle
 comm_stage_DrivePass3	It's a passing play
 comm_stage_DrivePass4	The quarterback throws it
-comm_stage_DriveHailMary0	It's a hail mary throw
-comm_stage_DriveHailMary1	It's a huge throw
+comm_stage_DriveHailMary0	It's a Hail Mary throw
+comm_stage_DriveHailMary1	It's a huge throw! Just like your mom's a-
 comm_stage_DriveHailMary2	The quarterback airs it out
 comm_stage_Turnover1	It's a fumble!
 comm_stage_Turnover2	Interception!
-comm_stage_TurnoverHuman	$teamname turn it over
-comm_stage_TurnoverHuman4th	$teamname turn it over on 4th down
+comm_stage_TurnoverHuman	$teamname turn it over! What the fuck!
+comm_stage_TurnoverHuman4th	$teamname turn it over on 4th down! They are fucking selling!
 comm_stage_Touchdown	$teamname score!
 comm_stage_Punt	$teamname punt
 comm_stage_PAT1	Point after touchdown...
 comm_stage_PAT2_Missed	Missed!
 comm_stage_PAT2_Scored	Scored!
 comm_stage_FieldGoal1	$teamname with a $num yard field goal...
-comm_stage_FieldGoal2_Missed	Missed!
+comm_stage_FieldGoal2_Missed	Missed! You piece of shit!
 comm_stage_FieldGoal2_Scored	Scored!
 comm_stage_end_quarter1	End of 1st quarter
 comm_stage_end_quarter2	End of 1st half
